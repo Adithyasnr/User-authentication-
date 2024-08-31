@@ -1,3 +1,18 @@
+Name : Adithya Reddy
+
+Company Name : CODTECH IT SOLUTIONS
+
+Domain : Backend Web Development
+
+ID : CT08DS6534
+
+Duration : August 5th to September 5th 2024
+
+Project Overview
+
+
+
+
 # User-authentication-
 This project is about creating a landing login page for user authentication. I've used Flask frame work and JWT token based server authentication by inculcating neat and efficient code completely using Python   
 
