@@ -16,7 +16,7 @@ Menotor Name : Neela Santosh Kumar
 Duration : August 5th to September 5th 2024
 
 
-<img width="386" alt="image" src="https://github.com/user-attachments/assets/99123f17-8b3d-4dc0-a6fe-a68480563a36">
+
 
 
 Project Overview
